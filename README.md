@@ -1,6 +1,6 @@
 # tfidf_embeddings_cluster_vis for patent search
 
-tfidf/mbart/mt5/CLIP embeddings cluster vis: a means of dynamic text-to-sentence similarity visualization, rapid browsing and to do exploratory data analysis,EDA, of long texts such as patents. and a third patent search and retrieval method.
+Automatic generation of dominant patents in blank spaces: tfidf/mbart/mt5/CLIP embeddings cluster reconstructing vis: a means to visualize, quickly browse, analyze, and search for dynamic text-to-sentence similarities of patents and other long texts. and a third patent search method, a dynamic knowledge extraction management method, and automatic patent generation.
 
 I use this tool for kaggle and other data analysis competitions.
 
